@@ -1,1 +1,1 @@
-# Password-Manager
+ A robust password manager application developed using React.js for the frontend, Tailwind CSS for styling, Express.js for the backend, and MongoDB for secure data storage. This project focuses on providing users with a reliable and secure tool for managing their login credentials.
